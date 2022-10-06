@@ -1,4 +1,9 @@
 ## Bem-vindo(a) ao perfil do Higor Santanna Rodrigues 👋
+
+Bem vindo(a), ao meu GitHub. Sou iniciante na área de programação, aqui você encontrará diversos projetos relacionados a Desenvolvimento web Frontend, desde projetos simples a mais complexos. 👨‍💻
+
+Espero que gostem do projetos.
+
 <div>
   <a href="https://github.com/Higor-Santanna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higor-Santanna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
