@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Higor Santanna Rodrigues 👋
 
-Bem vindo(a), ao meu GitHub. Sou desencolvedor Web Frontend, aqui você encontrará diversos projetos relacionados a minha área de atuação, desde projetos simples a mais complexos. Estou aberto a novas proposta de emprego ou contratos.👨‍💻
+Bem vindo(a), ao meu GitHub. Sou desenvolvedor Web Frontend, aqui você encontrará diversos projetos relacionados a minha área de atuação, desde projetos simples a mais complexos. Estou aberto a novas proposta de emprego ou contratos.👨‍💻
 
 Espero que gostem do projetos.
 
